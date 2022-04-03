@@ -65,7 +65,4 @@ so lets see what is inside KFC:
   blog  :https://medium.com/@lalithsaigadde/kfc-clone-6f96bfa77d02
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Mahendra Chandravanshi
-linkedin profile 
-Git Profile
-Blog :
+
